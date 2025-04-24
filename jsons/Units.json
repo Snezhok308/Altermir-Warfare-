@@ -12,8 +12,7 @@
    "productionTurns": 18,  
    "requiresTech": "lasers",   
    "requiredResource": "Aluminium","Oil"        
-   "attackSound": "tankshot",          
-   "rangedAttackSound": "rocket",      
+   "attackSound": "missile",               
    "dieSound": "explosion",            
    "domain": "Land",                    
    "ignoreTerrainCost": true,         
