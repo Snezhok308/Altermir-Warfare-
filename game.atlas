@@ -2,7 +2,6 @@
 spritesheet.png
 size: 202, 371
 format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/1745330098680
   rotate: false
