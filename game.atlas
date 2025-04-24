@@ -11,11 +11,11 @@ NationIcons/1745330098680
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+UnitIcons/Holodeck
   rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1, 103
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Aliens
