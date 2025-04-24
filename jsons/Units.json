@@ -11,7 +11,7 @@
    "cost": 200,                      
    "productionTurns": 18,  
    "requiresTech": "lasers",   
-   "requiredResource": "Aluminium"         
+   "requiredResource": "Aluminium","Oil"        
    "attackSound": "tankshot",          
    "rangedAttackSound": "rocket",      
    "dieSound": "explosion",            
@@ -22,8 +22,7 @@
    "replaces": null, 
    "civilizationTypes": ["308XmE2"],           
    "icon": "Без названия73_20250423102431.png",  
-    "attackAnimation": "TANK_ATTACK" 
-   "rangedAttackAnimation": "ROCKET_ATTACK", 
+   "attackAnimation": "TANK_ATTACK" 
    "dieAnimation": "TANK_DIE" 
  } 
  ]
