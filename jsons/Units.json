@@ -1,17 +1,29 @@
-[
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
-]
+[ 
+         { 
+   "id": "white_tiger_tank_3",         
+   "name": "Белый Тигр 3",             
+   "description": "Современный танк с мощной пушкой и ракетной установкой" 
+   "unitType": "Armor", 
+   "movement": 3,                      
+   "strength": 150,                      
+   "rangedStrength": 150,         
+   "range": 7,                          
+   "cost": 200,                      
+   "productionTurns": 18,  
+   "requiresTech": "lasers",   
+   "requiredResource": "Aluminium"         
+   "attackSound": "tankshot",          
+   "rangedAttackSound": "rocket",      
+   "dieSound": "explosion",            
+   "domain": "Land",                    
+   "ignoreTerrainCost": true,         
+   "uniques": ["can move after attacking","can attack twice"], 
+   "promotions": [], 
+   "replaces": null, 
+   "civilizationTypes": ["308XmE2"],           
+   "icon": "white_tiger_icon.png",  
+    "attackAnimation": "TANK_ATTACK" 
+   "rangedAttackAnimation": "ROCKET_ATTACK", 
+   "dieAnimation": "TANK_DIE" 
+ } 
+ ]
