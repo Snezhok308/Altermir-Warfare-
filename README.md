@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Altermir Warfare mod for Unciv !
 
-An example mod for Unciv, that adds one new Civilization.
+Mod for Unciv , adds Feline Empire , maybe Izlend in future . . .
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
