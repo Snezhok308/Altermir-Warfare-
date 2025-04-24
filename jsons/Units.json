@@ -21,7 +21,8 @@
    "replaces": null, 
    "civilizationTypes": ["308XmE2"],           
    "icon": "Без названия73_20250423102431.png",  
-   "attackAnimation": "TANK_ATTACK" 
-   "dieAnimation": "TANK_DIE" 
+   "sprite": "Без названия74_20250424003138.png"
+   "attackAnimation": ,
+   "dieAnimation": ,
  } 
  ]
